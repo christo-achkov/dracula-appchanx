@@ -2,6 +2,8 @@
 
 Dracula theme for appchanx
 
+![text](./preview.png)
+
 ## How to instal
 
 ### 1. Install appchanx (you can refer to here <https://zixaphir.github.io/appchan-x>)  
